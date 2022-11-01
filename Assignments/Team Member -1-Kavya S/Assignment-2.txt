@@ -1,4 +1,0 @@
-
-Cognos Analytics link:
-
-https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fass2&action=view&mode=dashboard&subView=model000001841e283490_00000001
